@@ -1,1 +1,3 @@
 # INVESTIGACION_APLICADA2_DPS
+
+Integrantes:
